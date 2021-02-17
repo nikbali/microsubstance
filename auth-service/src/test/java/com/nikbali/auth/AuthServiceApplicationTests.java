@@ -1,4 +1,4 @@
-package com.nikbali.config;
+package com.nikbali.auth;
 
 //@SpringBootTest
 class AuthServiceApplicationTests {

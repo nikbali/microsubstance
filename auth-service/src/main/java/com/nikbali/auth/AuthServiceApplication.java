@@ -1,4 +1,4 @@
-package com.nikbali.config;
+package com.nikbali.auth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
